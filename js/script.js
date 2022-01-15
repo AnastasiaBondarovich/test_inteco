@@ -30,7 +30,7 @@ $('.wrapper').ready(function () {
     swipe: true,
     swipeToSlide: true,
     waitForAnimate: false,
-    appendDots:'.principles__slider-item',
+    appendDots:'.principles__slider-item-dots',
     nextArrow: '.principles__slider-item-arrows',
   });
 
