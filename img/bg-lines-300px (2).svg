@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 539" width="290" height="539">
+	<title>03</title>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: #d2c8c8 } 
+	</style>
+	<g id="03">
+		<g id="bg-lines">
+			<path id="Rectangle 5 copy 4" class="s0" d="m-10 0h11v1h-11v-1z" />
+			<path id="Rectangle 5" class="s0" d="m0 0h1v539h-1v-539z" />
+			<path id="Rectangle 5 copy 5" class="s0" d="m0 538h290v1h-290v-1z" />
+		</g>
+	</g>
+</svg>
